@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1788522985680,
+      "tag": "0000_create_profiles_and_user_state",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791542937844,
+      "tag": "0001_user_state_history",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791548044560,
+      "tag": "0002_collab_6a_shared_lists",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1791655089040,
+      "tag": "0003_collab_6b_legacy_import",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1791655747096,
+      "tag": "0004_collab_7_apply_list_op",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1791656338096,
+      "tag": "0005_collab_8_invites",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1791657088927,
+      "tag": "0006_bloco9_ao_vivo",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1791769200623,
+      "tag": "0007_bloco9_1_papeis_por_lista",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1791777654857,
+      "tag": "0008_hotfix02_vinculo_ativo",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1793589705225,
+      "tag": "0009_unidades_simplificadas",
+      "breakpoints": true
+    }
+  ]
+}
